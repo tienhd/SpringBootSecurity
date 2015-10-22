@@ -1,0 +1,1 @@
+INSERT INTO user_account (uuid, version, username, password) VALUES ('d09ed82f-64f3-438c-8190-198bf9a8fdba', 1, 'test', 'test');
